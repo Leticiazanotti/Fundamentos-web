@@ -1,17 +1,17 @@
 /*
 estilos da página index.html
 */
-.center{
+.center {
     text-align: center;
-    
+
 }
 
-.justify{
+.justify {
     text-align: justify;
 
 }
 
-.container{
+.container {
     display: flex;
     flex-flow: row;
     justify-content: center;
@@ -19,42 +19,44 @@ estilos da página index.html
 }
 
 
-#menu li{
+#menu li {
     display: inline;
     padding: 15px;
     text-decoration: none;
 
 }
 
-#menu li a{
+#menu li a {
     text-decoration: none;
     color: black;
 }
 
-#menu li a:hover { /* quando o mouse passar em cima do link a cor dele será verde */
+#menu li a:hover {
+    /* quando o mouse passar em cima do link a cor dele será verde */
     color: gray;
 }
-.br-50{
+
+
+.br-50 {
     border-radius: 50%;
 }
 
-.tm-social{
+.tm-social {
     width: 50px;
     height: 50px;
 }
 
-.mb-50{
+.mb-50 {
     margin-bottom: 50px;
 }
 
-    
+
 
 
 /*
 estilos da página Contatos.html
 */
 
-.ml-50{
+.ml-50 {
     margin-left: 50px;
 }
-
